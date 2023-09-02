@@ -1,18 +1,28 @@
-# Country Teller 
 
-## Overview
+# Country Teller 🌱🌱
 
 The Country Teller Web Application is a simple and user-friendly Web application designed to provide users with detailed information about any country in the world. Whether you're a traveler looking for destination insights, a student doing research, or just curious about different countries, this app has you covered. It offers a wealth of information on a wide range of topics, from geography and demographics to culture and economy.
 
-# Features
 
-1. **Country Information**: Get comprehensive details about any country, including its name, capital, population, official languages, currency, and more.
+## Demo ✅✅
+https://64f2d68f35b5df4741d0e4c9--storied-cajeta-b44070.netlify.app/
 
-2. **Flag Viewer**: View the national flag of the selected country and learn about its symbolism.
+## Features 🚀
 
-3. **Geography**: Explore the geographical aspects of the country, such as its location on the world map, neighboring countries, and major geographical landmarks.
+- **Country Information**: Get comprehensive details about any country, including its name, capital, population, official languages, currency, and more.
 
-4. **Demographics**: Access information about the population, ethnic groups, and religions in the country.
+- **Flag Viewer**: View the national flag of the selected country and learn about its symbolism.
 
-8. **Time Zone**: Find out the time zone in which the country is located.
+- **Country Common Language** : View the common language of the Country that mostly people speak there
+
+- **Continent Descripation** : It also display the name of the Continent where the city Lies.
+
+
+
+## Tech Stack : 💻
+
+**FRONTEND :** HTML,CSS,JAVASCRIPT
+
+**API**: 
+https://restcountries.com/v3.1/name/{name}?fullText=true
 
